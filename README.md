@@ -15,7 +15,7 @@ I'm a **self taught Data Scientist** passionate about using data and machine lea
 
 ## Certifications
   - IBM Data Science Professional Certificate (Coursera)  
-  - Machine Learning Specialization – Stanford / DeepLearning.AI (Coursera) 
+  - Machine Learning Specialization – Stanford & DeepLearning.AI (Coursera) 
 
 ## 📫 Get in Touch
   muzhanyemilton@gmail.com  
